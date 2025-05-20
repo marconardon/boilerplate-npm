@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Marco",
 	"description": "Marco's first node project",
-	"keywords": [ "freeCodeCamp", "training", "test" ],
+	"keywords": [ "freecodecamp", "training", "test" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
